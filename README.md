@@ -4,9 +4,9 @@ Shared repository for IASC 2P02 team presentations.
 ## **MAKE SURE YOU ARE WORKING ON THE RIGHT BRANCH**
 
 # Project
-
+PRISM
 # Project URL
-
+http://prism.scholarslab.org/
 # Notes
 
 Notes go here.
